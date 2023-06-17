@@ -20,6 +20,9 @@ $ git clone https://github.com/karimould/typescript-text-classification
 # Go into the repository
 $ cd typescript-text-classification
 
+# For macOS with M1 architecture, follow these steps:
+# https://github.com/nuxt/image/issues/204
+
 # Install dependencies
 $ npm install
 ```
